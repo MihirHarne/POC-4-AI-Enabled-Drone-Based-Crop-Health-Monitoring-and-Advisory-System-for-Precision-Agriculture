@@ -1,0 +1,7 @@
+# Pinecone Vector DB Configuration
+PINECONE_API_KEY=pinecone-api-key
+PINECONE_INDEX_NAME=dhan-saathi-vector-db
+
+# Groq LLM API Configuration (for RAG inference)
+GROQ_API_KEY=gro-api-key
+GROQ_MODEL=check groq models
