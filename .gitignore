@@ -2,8 +2,13 @@ __pycache__/
 UNET_package/
 prog_utils_copy/
 heatmaps/
+NI/
 growth_stage.pt
 rice_objects.keras
 rice_regions.keras
 model_weights/best_unified_model.keras
 model_weights_offline.zip
+Dhan Saathi.html
+Dhan Saathi Admin.html
+image.png
+test_plantuml_v2.txt
